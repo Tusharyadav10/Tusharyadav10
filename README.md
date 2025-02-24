@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Tusharyadav10
-- 👀 I’m interested in coding and learning new things.
-- 🌱 I’m currently learning about web dev.
-- 💞️ I’m looking to collaborate on frontend dev.
-- 📫 How to reach me ...
+<h2> Hi, I'm Tushar!
 
-<!---
-Tusharyadav10/Tusharyadav10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin: Tushar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/tushar-y-0a5896242/)
+[![GitHub Tushar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Tusharyadav10)
+
+```javascript
+const tushar = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, C++, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+/*
+techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+*/
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
